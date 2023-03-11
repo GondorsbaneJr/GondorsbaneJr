@@ -5,7 +5,7 @@ General Code Dev
 ----------------
 
 * 🌍  I'm based in Australia Brisbane
-* 🖥️  See my portfolio at [inprogress](http://williamkeleher.com)
+* 🖥️  See my portfolio at [inprogress](http://williamkeleher.tech)
 * ✉️  You can contact me at [wpkeleher@outlook.com](mailto:wpkeleher@outlook.com)
 * 🤝  I'm open to collaborating on Most things I don't mind
 * ⚡  I make myself bust
