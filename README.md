@@ -8,7 +8,6 @@ General Code Dev
 * 🖥️  See my portfolio at [williamkeleher.tech](http://williamkeleher.tech)
 * ✉️  You can contact me at [wdkeleher@vivaldi.net](mailto:wdkeleher@vivaldi.net)
 * 🤝  I'm open to collaborating on Most things I don't mind
-* ⚡  I make myself bust
 
 <a href="https://www.github.com/GondorsbaneJr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GondorsbaneJr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/GondorsbaneJr" target="_blank" rel="noreferrer"><img
